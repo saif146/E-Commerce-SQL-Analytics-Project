@@ -931,4 +931,5 @@ from gaps;
 
 ---
 
-*If you spot ways to extend this (e.g., adding a `dbt` layer, a BI dashboard on top, or query performance tuning with `EXPLAIN ANALYZE`), contributions/suggestions are welcome.*
+## Author:: Saiful Islam
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/saiful-islam-7b7a64268/)
